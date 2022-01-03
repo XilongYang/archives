@@ -1,0 +1,44 @@
+conky.text = [[
+${color #fbf6f6}${font JetBrain Mono:size=40}${time %Y}${font JetBrain Mono:size=25}${time %b %d}
+
+]]
+
+
+conky.config = {
+    alignment = 'button_left',
+    background = false,
+    border_width = 0,
+    cpu_avg_samples = 2,
+    default_color = 'white',
+    default_outline_color = 'white',
+    default_shade_color = 'black',
+    double_buffer = true,
+    draw_borders = false,
+    draw_graph_borders = false,
+    draw_outline = false,
+    draw_shades = false,
+    extra_newline = false,
+    font = 'Monaco:size=10',
+    gap_x = 40,
+    gap_y = 0,
+    minimum_height = 0,
+    minimum_width = 0,
+    net_avg_samples = 2,
+    no_buffers = false,
+    out_to_console = false,
+    out_to_ncurses = false,
+    out_to_stderr = false,
+    out_to_x = true,
+    override_utf8_locale = yes,
+    own_window = true,
+    own_window_class = 'Conky',
+    own_window_type = "override",
+    own_window_transparent = true,
+    show_graph_range = false,
+    show_graph_scale = false,
+    stippled_borders = 0,
+    update_interval = 1.0,
+    uppercase = false,
+    use_spacer = 'none',
+    use_xft = true,
+}

@@ -1,0 +1,55 @@
+body {
+    background-image: url(background.jpg);
+}
+
+.main {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 72px;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.button {
+    width: 50%;
+    height: 45px;
+    font-size: 20px;
+    background-color: transparent;
+    transition-duration: 0.4s;
+    border:2px solid #000;
+    border-radius: 8px;
+}
+
+.button:hover {
+    background-color: wheat;
+}
+
+.select {
+    height: 45px;
+    font-size: 20px;
+    background-color: transparent;
+    border:2px solid #000;
+    border-radius: 8px;
+}
+
+.result {
+    font-size: 48px;
+    font-weight: bold;
+    
+    color: #faa818;
+}
+
+@media screen and (max-width: 639px) {
+    .main {
+        margin-top: 30%;
+    }
+}

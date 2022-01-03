@@ -1,0 +1,36 @@
+sw_volume: 100
+audio_device_state:1:HDA Intel PCH
+audio_device_state:1:FIFO
+state: stop
+current: 20
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Songs/相见恨晚/腰乐队 - 不只是南方.mp3
+1:Songs/粤语/谁明浪子心 - 王杰.mp3
+2:Songs/粤语/月半小夜曲 - 李克勤.flac
+3:Songs/日语/雪の華 - 中島美嘉.mp3
+4:Songs/日语/愛し子よ.flac
+5:Songs/日语/あたし天使の堪忍袋 - 大森靖子.mp3
+6:Songs/日语/時雨 - 川嶋あい.flac
+7:Songs/日语/竹内まりや - 駅 (车站).mp3
+8:Songs/国语/断点 - 张敬轩.flac
+9:Songs/国语/张靓颖 - 我们说好的.mp3
+10:Songs/国语/坚强的理由 - 莫文蔚,伍佰.flac
+11:Songs/国语/有没有人告诉你 - 陈楚生.mp3
+12:Songs/国语/李健 - 车站 (Live).mp3
+13:Songs/国语/孙楠 - 是否爱过我.mp3
+14:Songs/国语/相思 - 毛阿敏.flac
+15:ACG/Departures〜あなたにおくるアイの歌〜 - EGOIST.flac
+16:ACG/Euterpe.mp3
+17:ACG/この世界で見つけたもの.flac
+18:ACG/METHOD_HYMME_STAUROLITE／.sync_with.YEqejyu - stellatram.flac
+19:ACG/キミソラキセキ.mp3
+20:ACG/最後の花弁 (The meaning of love).mp3
+21:ACG/ninelie.mp3
+playlist_end

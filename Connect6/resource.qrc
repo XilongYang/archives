@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="chess.wav">res/sound/chessone.wav</file>
+        <file alias="win.wav">res/sound/win.wav</file>
+        <file alias="icon.jpg">res/icon.jpg</file>
+        <file alias="dead.wav">res/sound/dead.wav</file>
+    </qresource>
+</RCC>
